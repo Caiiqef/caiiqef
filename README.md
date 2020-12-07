@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://reddit.com/caiiqef">
-  <img align="left" alt="Reddit Karma" src="https://img.shields.io/reddit/user/link/caiiqef?style=social" />
+  <img align="left" alt="Reddit Karma" src="https://img.shields.io/reddit/user-karma/combined/caiiqef?style=social" />
 </a>
 
 <img align='right' src='https://i.imgur.com/sv6ffPf.gif' width='100'>
