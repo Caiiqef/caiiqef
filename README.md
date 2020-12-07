@@ -12,6 +12,7 @@
 
 <a href="https://instagram.com/caiiqef">
   <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
 <img align='right' src='https://i.imgur.com/sv6ffPf.gif' width='100'>
 
