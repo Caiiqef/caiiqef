@@ -10,6 +10,10 @@
   <img align="left" alt="Instagram Follows" src="https://img.shields.io/instagram/followers/caiiqef?label=Follow&style=social" />
 </a>
 
+<a href="https://reddit.com/caiiqef">
+  <img align="left" alt="Reddit Karma" src="https://img.shields.io/reddit/user-karma/link/caiiqef?style=social" />
+</a>
+
 <img align='right' src='https://i.imgur.com/sv6ffPf.gif' width='100'>
 
 <br />
