@@ -6,11 +6,7 @@
   <img align="left" alt="Twitter Follows" src="https://img.shields.io/twitter/follow/caiiqef?label=Follow&style=social" />
 </a>
 
-<a href="https://instagram.com/caiiqef">
-  <img align="left" alt="Instagram Follows" src="https://img.shields.io/instagram/followers/caiiqef?label=Follow&style=social" />
-</a>
-
-<a href="https://reddit.com/caiiqef">
+<a href="https://reddit.com/user/caiiqef">
   <img align="left" alt="Reddit Karma" src="https://img.shields.io/reddit/user-karma/combined/caiiqef?style=social" />
 </a>
 
