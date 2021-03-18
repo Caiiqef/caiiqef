@@ -27,7 +27,7 @@
   <img align="left" alt="Reddit" src="https://img.shields.io/badge/League_Of_Legends-000000?style=for-the-badge&logo=riot-games&logoColor=d22a36" />
 </a>
 <img align='right' src='https://i.imgur.com/sv6ffPf.gif' width='100'>
-
+<hr>
 <a href="https://github.com/caiiqef">
   <img height="180em" width="425em" src="https://github-readme-stats.vercel.app/api?username=caiiqef&show_icons=true&theme=react" style="max-width:100%;">
   <img height="180em" width="425em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caiiqef&layout=compact&langs_count=8&border=true&theme=react" style="max-width:100%;">
