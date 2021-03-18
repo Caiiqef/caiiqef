@@ -22,6 +22,9 @@
   <img align="left" alt="Reddit" src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white" />
 </a>
 
+<a href="https://br.op.gg/summoner/userName=Skeptic+God">
+  <img align="left" alt="Reddit" src="https://img.shields.io/badge/League_Of_Legends-000000?style=for-the-badge&logo=riot-games&logoColor=d22a36" />
+</a>
 <img align='right' src='https://i.imgur.com/sv6ffPf.gif' width='100'>
 
 <hr>
