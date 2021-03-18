@@ -18,6 +18,7 @@
 
 <br />
 <hr>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=caiiqef&show_icons=true&hide_border=true&theme=highcontrast)
-![Github stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caiiqef&layout=compact&langs_count=8&border=true&theme=highcontrast)
+<a href="https://github.com/caiiqef">
+  <img htight="180em"
+![Github stats](https://github-readme-stats.vercel.app/api?username=caiiqef&show_icons=true&theme=vision-friendly-dark)
+![Github stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caiiqef&layout=compact&langs_count=8&border=true&theme=vision-friendly-dark)
