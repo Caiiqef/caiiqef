@@ -16,7 +16,6 @@
 
 <img align='right' src='https://i.imgur.com/sv6ffPf.gif' width='100'>
 
-<br />
 <hr>
 <a href="https://github.com/caiiqef">
   <img height="180em" width="425em" src="https://github-readme-stats.vercel.app/api?username=caiiqef&show_icons=true&theme=vision-friendly-dark" style="max-width:100%;">
