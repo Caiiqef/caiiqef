@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://instagram.com/caiiqef">
-  <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://www.reddit.com/user/caiiqef/" ref="nofollow">
