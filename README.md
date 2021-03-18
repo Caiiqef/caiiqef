@@ -1,5 +1,5 @@
 <a href="https://github.com/caiiqef">
-  <img align="left" alt="Github Follows" src="https://img.shields.io/badge/Github-24292e?style=for-the-badge&logo=github&logoColor=red" />
+  <img align="left" alt="Github Follows" src="https://img.shields.io/badge/Github-24292e?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://twitter.com/caiiqef">
