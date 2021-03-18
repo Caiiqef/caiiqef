@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/caique-fernandes/" rel="nofollow">
-    <img data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
+    <img data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 
 <img align='right' src='https://i.imgur.com/sv6ffPf.gif' width='100'>
