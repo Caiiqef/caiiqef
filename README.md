@@ -16,10 +16,6 @@
   <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.reddit.com/user/caiiqef/" ref="nofollow">
-  <img align="left" alt="Reddit" src="https://img.shields.io/badge/Reddit-FF5700?style=for-the-badge&logo=reddit&logoColor=white" />
-</a>
-
 <a href="https://github.com/caiiqef">
   <img align='right' src='https://i.imgur.com/sv6ffPf.gif' width='100'>
 </a>
