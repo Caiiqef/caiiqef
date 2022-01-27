@@ -18,7 +18,7 @@
 <hr>
 <div align="center">
   <a href="https://github.com/caiiqef">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiiqef&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiiqef&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caiiqef&layout=compact&langs_count=8&border=true&theme=react"/>
   </a>
 </div>
