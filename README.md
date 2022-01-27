@@ -26,4 +26,3 @@
   <img height="180em" width="425em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caiiqef&layout=compact&langs_count=8&border=true&theme=react" style="max-width:100%;">
 <hr>
 </a>
-<hr>
