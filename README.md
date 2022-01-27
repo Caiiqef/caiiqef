@@ -1,9 +1,8 @@
-## Olá, meu nome é Caíque. Seja bem-vindo ao meu Github!<br>
-#### Atualmente eu estou estudando para me tornar um desenvolvedor web!<br>
+Olá, meu nome é Caíque. Seja bem-vindo ao meu Github!
+Atualmente eu estou estudando para me tornar um desenvolvedor web!<br>
+*Hello, my name is Caíque. Welcome to my Github!*
+*I am currently studying to become a web developer.*
 <hr>
-
-## *Hello, my name is Caíque. Welcome to my Github!*<br>
-#### *I am currently studying to become a web developer.*
 <a href="https://www.linkedin.com/in/caique-fernandes/" rel="nofollow">
   <img align="left" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
